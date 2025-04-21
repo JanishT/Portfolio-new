@@ -151,18 +151,18 @@ export const experiences = [
             " Effectively demonstrating completed projects through structured presentations and interactive displays.",
         ],
     },
-    {
-        title: "Full Stack Developer",
-        company_name: "Smartglobal Service Centre , Dubai  (Remote)",
-        icon: shopify,
-        iconBg: "#b7e4c7",
-        date: "July 2024 - Present",
-        points: [
-            "Built software projects for ERP systems, HR systems, and a company chat application to streamline operations and communication.",
-            "Experienced in backend development side.",
-            "Proficient in using Fuse React, Next Js, and TypeScript for creating dynamic and responsive frontend interfaces",
-        ],
-    },
+    // {
+    //     title: "Full Stack Developer",
+    //     company_name: "Smartglobal Service Centre , Dubai  (Remote)",
+    //     icon: shopify,
+    //     iconBg: "#b7e4c7",
+    //     date: "July 2024 - Present",
+    //     points: [
+    //         "Built software projects for ERP systems, HR systems, and a company chat application to streamline operations and communication.",
+    //         "Experienced in backend development side.",
+    //         "Proficient in using Fuse React, Next Js, and TypeScript for creating dynamic and responsive frontend interfaces",
+    //     ],
+    // },
  
 ];
 
